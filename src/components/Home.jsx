@@ -69,7 +69,11 @@ const Home = () => {
               }}
             >
               <AiFillYoutube />
-              <p>Youtube</p>
+              <p>
+              <a href="https://www.youtube.com/channel/UCIJpBtfud-fLcATMxSaaAiw" target={"blank"}>
+                Youtube
+              </a>
+              </p>
             </div>
 
             <div
@@ -78,7 +82,11 @@ const Home = () => {
               }}
             >
               <AiFillInstagram />
-              <p>Instagram</p>
+              <p>
+                <a href="https://www.instagram.com/panjiyar_aditya/" target={"blank"}>
+                Instagram
+              </a>
+              </p>
             </div>
           </article>
         </div>
