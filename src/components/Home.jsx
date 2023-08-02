@@ -33,7 +33,7 @@ const Home = () => {
       <div>
         <h1>Who we are?</h1>
         <p>
-          kuch bhi aacha type karna hai apne maan se
+          A basic Endorsement site model.
         </p>
       </div>
     </div>
